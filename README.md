@@ -11,3 +11,4 @@
 
 **Repository** [intermediate_project](https://github.com/akotomin/data_analyst_portfolio/blob/main/e-learning.ipynb) 
 
+[Здесь](https://public.tableau.com/app/profile/aleksandr.kotomin) вы можете ознакомиться с моими работами в Tableau
